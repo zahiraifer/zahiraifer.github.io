@@ -83,3 +83,23 @@ Combined with the fixed context, that means the worst case for a turn is known i
 - Design the output format so answers are small. A diff-like operation list is cheaper and safer than a regenerated document.
 
 The planner described here is the one behind every edit in [Orivox](https://orivox.org).
+
+## More notes
+
+- [Why I keep the AI on a short leash when it edits a live website](https://medium.com/@zahiraifer/why-i-keep-the-ai-on-a-short-leash-when-it-edits-a-live-website-a60a2050a565) (Medium)
+- [What we learned building an AI website builder for a right-to-left language](https://medium.com/@zahiraifer/what-we-learned-building-an-ai-website-builder-for-a-right-to-left-language-bd4aeb50f5aa) (Medium)
+- [What Really Happens When You Ask an AI to Change Your Website](https://orivox-notes.gitbook.io/orivox-notes-docs) (GitBook)
+- [How Orivox edits websites](https://zenodo.org/records/23616893) (Zenodo)
+- [I stopped letting the AI write my customers' websites](https://orivox-notes.kit.com/posts/issue-1-i-stopped-letting-the-ai-write-my-customers-websites) (Kit)
+- [Before You Let an AI Run Your Business Website: A 9-Point Reliability Checklist](https://exciting-marigold-f47.notion.site/Before-You-Let-an-AI-Run-Your-Business-Website-A-9-Point-Reliability-Checklist-4032b7b7bea180fdbdbbe5da10b186bf) (Notion)
+- [Exposing a website builder to AI agents via MCP](https://zahiraifer.hashnode.dev/exposing-a-website-builder-to-ai-agents-via-mcp-what-an-mcp-server-for-site-generation-looks-like) (Hashnode)
+- [42,000 tokens article on Neocities](https://zahiraifer.neocities.org/article.html) (Neocities)
+- [Guardrails that don't trust the model](https://zahiraifer.bearblog.dev/guardrails-that-dont-trust-the-model/) (Bear Blog)
+- [Why most AI website builders break](https://orivoxnotes.substack.com/p/why-most-ai-website-builders-break) (Substack)
+- [Why small businesses still don't have websites in 2026](https://zahiraifer.mataroa.blog/blog/why-small-businesses-still-dont-have-websites-in-2026/) (Mataroa)
+- [AI website builders compared for non-English markets](https://paragraph.com/@zahiraifer/ai-website-builders-compared-for-non-english-markets-what-to) (Paragraph)
+- [Before you go online: a small business owner's checklist](https://www.tumblr.com/zahiraifer/831253841051828224/before-you-go-online-a-small-business-owners) (Tumblr)
+- [איך בונים אתר לעסק קטן עם AI בעשר דקות](https://asakbareshet.wordpress.com/2026/10/23/%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%a0%d7%99%d7%9d-%d7%90%d7%aa%d7%a8-%d7%9c%d7%a2%d7%a1%d7%a7-%d7%a7%d7%98%d7%9f-%d7%a2%d7%9d-ai-%d7%91%d7%a2%d7%a9%d7%a8-%d7%93%d7%a7%d7%95%d7%aa/) (WordPress)
+- [I built an MCP server that lets Claude create and publish real websites](https://dev.to/t_ra_2020646ab07ca030710b/i-built-an-mcp-server-that-lets-claude-create-and-publish-real-websites-4bam) (DEV)
+
+Also see the full [notes index](/notes).
