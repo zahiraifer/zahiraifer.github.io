@@ -29,4 +29,5 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [איך בונים אתר לעסק קטן עם AI בעשר דקות](https://asakbareshet.wordpress.com/2026/10/23/%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%a0%d7%99%d7%9d-%d7%90%d7%aa%d7%a8-%d7%9c%d7%a2%d7%a1%d7%a7-%d7%a7%d7%98%d7%9f-%d7%a2%d7%9d-ai-%d7%91%d7%a2%d7%a9%d7%a8-%d7%93%d7%a7%d7%95%d7%aa/) (WordPress)
 - [Give Every Element an Address: Building LLM-Editable HTML Pages](https://coderlegion.com/32425/give-every-element-an-address-building-llm-editable-html-pages) (CoderLegion)
 - [Give every element an address: how Orivox keeps AI website edits small](https://hackmd.io/zeOCMul6QwadC8ZMW8Pm9g) (HackMD)
+- [Why website AIs should return instructions, not full HTML](https://telegra.ph/Why-website-AIs-should-return-instructions-not-full-HTML-10-25) (Telegraph)
 - [I built an MCP server that lets Claude create and publish real websites](https://dev.to/t_ra_2020646ab07ca030710b/i-built-an-mcp-server-that-lets-claude-create-and-publish-real-websites-4bam) (DEV)
