@@ -31,4 +31,5 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [Give every element an address: how Orivox keeps AI website edits small](https://hackmd.io/zeOCMul6QwadC8ZMW8Pm9g) (HackMD)
 - [Why website AIs should return instructions, not full HTML](https://telegra.ph/Why-website-AIs-should-return-instructions-not-full-HTML-10-25) (Telegraph)
 - [One owner for every piece of state: Git per project, one lock, two services](https://zahiraifer.codeberg.page/article.html) (Codeberg Pages)
+- [Bring your own AI: an MCP server that is safe to put on the internet](https://teletype.in/@zahiraifer/IHlrZDukcrR) (Teletype)
 - [I built an MCP server that lets Claude create and publish real websites](https://dev.to/t_ra_2020646ab07ca030710b/i-built-an-mcp-server-that-lets-claude-create-and-publish-real-websites-4bam) (DEV)
