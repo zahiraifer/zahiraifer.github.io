@@ -25,6 +25,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [Why Our Web App Never Runs Git: Redis Locks and Queues as the Only Path to the Repo](https://asakbareshet.wordpress.com/2026/10/26/why-our-web-app-never-runs-git-redis-locks-and-queues-as-the-only-path-to-the-repo/) (WordPress.com)
 - [Building an AI Website Editor That Speaks Hebrew First: RTL Constraints That Shape the Stack](https://paper.wf/zahiraifer/building-an-ai-website-editor-that-speaks-hebrew-first-rtl-constraints-that) (paper.wf)
 - [Shipping Additive Contract Releases Between a Web App and an Editing Service](https://zahiraifer.pika.page/posts/shipping-additive-contract-releases-between-a-web-app-and-an-editing-service) (Pika)
+- [Trust the Hash, Not the Label: Watching an AI Website Editor From the Outside](https://gist.github.com/zahiraifer/edfd9409aa0a39f7bd6f8795710b85a2) (GitHub Gist)
 - [Enforced by Code, Not by Care: The Small Rules That Keep an AI Website Editor Stable](https://observablehq.com/@zahiraifer/enforced-by-code-not-by-care-the-small-rules-that-keep-an-ai-website-editor-stable) (Observable)
 - [Rewrite or Restore: How Orivox Handles the Two Biggest Moves an AI Can Make on a Live Page](https://zahiraifer.pagecord.com/rewrite-or-restore-how-orivox-handles-the-two-biggest-moves-an-ai-can-make-on-a-live-page) (Pagecord)
 - [One Pass From the Model, Everything Exact From Python: What Happens When an AI Builds a New Website](https://rant.li/zahiraifer/one-pass-from-the-model-everything-exact-from-python-what-happens-when-an-ai) (rant.li)
