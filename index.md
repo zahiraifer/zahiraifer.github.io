@@ -105,6 +105,7 @@ The planner described here is the one behind every edit in [Orivox](https://oriv
 - [Why website AIs should return instructions, not full HTML](https://telegra.ph/Why-website-AIs-should-return-instructions-not-full-HTML-10-25) (Telegraph)
 - [One owner for every piece of state: Git per project, one lock, two services](https://zahiraifer.codeberg.page/article.html) (Codeberg Pages)
 - [Bring your own AI: an MCP server that is safe to put on the internet](https://teletype.in/@zahiraifer/IHlrZDukcrR) (Teletype)
+- [Blue/Green-Style Releases on Two Servers: How a Small AI Web Platform Ships Safely](https://qiita.com/zahiraifer/items/7f13305dd405ee1385b9) (Qiita)
 - [I built an MCP server that lets Claude create and publish real websites](https://dev.to/t_ra_2020646ab07ca030710b/i-built-an-mcp-server-that-lets-claude-create-and-publish-real-websites-4bam) (DEV)
 
 Also see the full [notes index](/notes).
