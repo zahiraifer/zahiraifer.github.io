@@ -96,6 +96,7 @@ The planner described here is the one behind every edit in [Orivox](https://oriv
 - [Six Calls and a Commit: Budgeting LLM Turns When an AI Edits Live Websites](https://zahiraifer.hashnode.dev/six-calls-and-a-commit-budgeting-llm-turns-when-an-ai-edits-live-websites) (Hashnode)
 - [Guardrails That Fix Themselves: How Orivox Catches and Corrects Its Own Bad Website Edits](https://zahiraifer.mataroa.blog/blog/guardrails-that-fix-themselves-how-orivox-catches-and-corrects-its-own-bad-website-edits/) (Mataroa)
 - [Why Our Web App Never Runs Git: Redis Locks and Queues as the Only Path to the Repo](https://asakbareshet.wordpress.com/2026/10/26/why-our-web-app-never-runs-git-redis-locks-and-queues-as-the-only-path-to-the-repo/) (WordPress.com)
+- [Building an AI Website Editor That Speaks Hebrew First: RTL Constraints That Shape the Stack](https://paper.wf/zahiraifer/building-an-ai-website-editor-that-speaks-hebrew-first-rtl-constraints-that) (paper.wf)
 - [42,000 tokens article on Neocities](https://zahiraifer.neocities.org/article.html) (Neocities)
 - [Guardrails that don't trust the model](https://zahiraifer.bearblog.dev/guardrails-that-dont-trust-the-model/) (Bear Blog)
 - [Why most AI website builders break](https://orivoxnotes.substack.com/p/why-most-ai-website-builders-break) (Substack)
