@@ -99,6 +99,7 @@ The planner described here is the one behind every edit in [Orivox](https://oriv
 - [Building an AI Website Editor That Speaks Hebrew First: RTL Constraints That Shape the Stack](https://paper.wf/zahiraifer/building-an-ai-website-editor-that-speaks-hebrew-first-rtl-constraints-that) (paper.wf)
 - [Shipping Additive Contract Releases Between a Web App and an Editing Service](https://zahiraifer.pika.page/posts/shipping-additive-contract-releases-between-a-web-app-and-an-editing-service) (Pika)
 - [Rewrite or Restore: How Orivox Handles the Two Biggest Moves an AI Can Make on a Live Page](https://zahiraifer.pagecord.com/rewrite-or-restore-how-orivox-handles-the-two-biggest-moves-an-ai-can-make-on-a-live-page) (Pagecord)
+- [One Pass From the Model, Everything Exact From Python: What Happens When an AI Builds a New Website](https://rant.li/zahiraifer/one-pass-from-the-model-everything-exact-from-python-what-happens-when-an-ai) (rant.li)
 - [42,000 tokens article on Neocities](https://zahiraifer.neocities.org/article.html) (Neocities)
 - [Guardrails that don't trust the model](https://zahiraifer.bearblog.dev/guardrails-that-dont-trust-the-model/) (Bear Blog)
 - [Why most AI website builders break](https://orivoxnotes.substack.com/p/why-most-ai-website-builders-break) (Substack)
