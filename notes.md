@@ -25,6 +25,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [Why Our Web App Never Runs Git: Redis Locks and Queues as the Only Path to the Repo](https://asakbareshet.wordpress.com/2026/10/26/why-our-web-app-never-runs-git-redis-locks-and-queues-as-the-only-path-to-the-repo/) (WordPress.com)
 - [Building an AI Website Editor That Speaks Hebrew First: RTL Constraints That Shape the Stack](https://paper.wf/zahiraifer/building-an-ai-website-editor-that-speaks-hebrew-first-rtl-constraints-that) (paper.wf)
 - [Shipping Additive Contract Releases Between a Web App and an Editing Service](https://zahiraifer.pika.page/posts/shipping-additive-contract-releases-between-a-web-app-and-an-editing-service) (Pika)
+- [Rewrite or Restore: How Orivox Handles the Two Biggest Moves an AI Can Make on a Live Page](https://zahiraifer.pagecord.com/rewrite-or-restore-how-orivox-handles-the-two-biggest-moves-an-ai-can-make-on-a-live-page) (Pagecord)
 - [42,000 tokens article on Neocities](https://zahiraifer.neocities.org/article.html) (Neocities)
 - [Guardrails that don't trust the model](https://zahiraifer.bearblog.dev/guardrails-that-dont-trust-the-model/) (Bear Blog)
 - [Why most AI website builders break](https://orivoxnotes.substack.com/p/why-most-ai-website-builders-break) (Substack)
