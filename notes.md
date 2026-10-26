@@ -25,6 +25,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [Why Our Web App Never Runs Git: Redis Locks and Queues as the Only Path to the Repo](https://asakbareshet.wordpress.com/2026/10/26/why-our-web-app-never-runs-git-redis-locks-and-queues-as-the-only-path-to-the-repo/) (WordPress.com)
 - [Building an AI Website Editor That Speaks Hebrew First: RTL Constraints That Shape the Stack](https://paper.wf/zahiraifer/building-an-ai-website-editor-that-speaks-hebrew-first-rtl-constraints-that) (paper.wf)
 - [Shipping Additive Contract Releases Between a Web App and an Editing Service](https://zahiraifer.pika.page/posts/shipping-additive-contract-releases-between-a-web-app-and-an-editing-service) (Pika)
+- [Why Our AI Website Editor Writes Lists, Not Files](https://orivox-writes-lists-not-files.readthedocs.io/en/latest/) (Read the Docs)
 - [Give Every Element an Address: The Small Idea That Makes AI Website Edits Safe](https://justpaste.it/iwma4) (JustPaste.it)
 - [One Footer, Every Page: How an AI Website Editor Keeps Shared Layout Shared](https://rentry.co/orivox-one-footer) (Rentry)
 - [Trust the Hash, Not the Label: Watching an AI Website Editor From the Outside](https://gist.github.com/zahiraifer/edfd9409aa0a39f7bd6f8795710b85a2) (GitHub Gist)
