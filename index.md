@@ -99,6 +99,7 @@ The planner described here is the one behind every edit in [Orivox](https://oriv
 - [Building an AI Website Editor That Speaks Hebrew First: RTL Constraints That Shape the Stack](https://paper.wf/zahiraifer/building-an-ai-website-editor-that-speaks-hebrew-first-rtl-constraints-that) (paper.wf)
 - [Shipping Additive Contract Releases Between a Web App and an Editing Service](https://zahiraifer.pika.page/posts/shipping-additive-contract-releases-between-a-web-app-and-an-editing-service) (Pika)
 - [Why Our AI Website Editor Writes Lists, Not Files](https://orivox-writes-lists-not-files.readthedocs.io/en/latest/) (Read the Docs)
+- [Keeping the Privacy Notice Next to the Contact Form: A Guardrail That Survives Rewrites](https://text.tchncs.de/zahiraifer/keeping-the-privacy-notice-next-to-the-contact-form-a-guardrail-that-survives) (text.tchncs.de)
 - [Give Every Element an Address: The Small Idea That Makes AI Website Edits Safe](https://justpaste.it/iwma4) (JustPaste.it)
 - [One Footer, Every Page: How an AI Website Editor Keeps Shared Layout Shared](https://rentry.co/orivox-one-footer) (Rentry)
 - [Trust the Hash, Not the Label: Watching an AI Website Editor From the Outside](https://gist.github.com/zahiraifer/edfd9409aa0a39f7bd6f8795710b85a2) (GitHub Gist)
