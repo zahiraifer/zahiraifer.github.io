@@ -100,6 +100,7 @@ The planner described here is the one behind every edit in [Orivox](https://oriv
 - [Shipping Additive Contract Releases Between a Web App and an Editing Service](https://zahiraifer.pika.page/posts/shipping-additive-contract-releases-between-a-web-app-and-an-editing-service) (Pika)
 - [Why Our AI Website Editor Writes Lists, Not Files](https://orivox-writes-lists-not-files.readthedocs.io/en/latest/) (Read the Docs)
 - [Keeping the Privacy Notice Next to the Contact Form: A Guardrail That Survives Rewrites](https://text.tchncs.de/zahiraifer/keeping-the-privacy-notice-next-to-the-contact-form-a-guardrail-that-survives) (text.tchncs.de)
+- [42,000 Tokens, 141 Back: What an AI Website Editor Actually Shows Its Model](https://orivox-42k-tokens.pages.dev) (Cloudflare Pages)
 - [Give Every Element an Address: The Small Idea That Makes AI Website Edits Safe](https://justpaste.it/iwma4) (JustPaste.it)
 - [One Footer, Every Page: How an AI Website Editor Keeps Shared Layout Shared](https://rentry.co/orivox-one-footer) (Rentry)
 - [Trust the Hash, Not the Label: Watching an AI Website Editor From the Outside](https://gist.github.com/zahiraifer/edfd9409aa0a39f7bd6f8795710b85a2) (GitHub Gist)
