@@ -27,6 +27,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [Shipping Additive Contract Releases Between a Web App and an Editing Service](https://zahiraifer.pika.page/posts/shipping-additive-contract-releases-between-a-web-app-and-an-editing-service) (Pika)
 - [Rewrite or Restore: How Orivox Handles the Two Biggest Moves an AI Can Make on a Live Page](https://zahiraifer.pagecord.com/rewrite-or-restore-how-orivox-handles-the-two-biggest-moves-an-ai-can-make-on-a-live-page) (Pagecord)
 - [One Pass From the Model, Everything Exact From Python: What Happens When an AI Builds a New Website](https://rant.li/zahiraifer/one-pass-from-the-model-everything-exact-from-python-what-happens-when-an-ai) (rant.li)
+- ["Done" Has to Mean Done: How an AI Website Editor Decides an Edit Really Happened](https://bloggie.io/@zahiraifer/done-has-to-mean-done-how-an-ai-website-editor-decides-an-edit-really-happened) (Bloggie)
 - [42,000 tokens article on Neocities](https://zahiraifer.neocities.org/article.html) (Neocities)
 - [Guardrails that don't trust the model](https://zahiraifer.bearblog.dev/guardrails-that-dont-trust-the-model/) (Bear Blog)
 - [Why most AI website builders break](https://orivoxnotes.substack.com/p/why-most-ai-website-builders-break) (Substack)
