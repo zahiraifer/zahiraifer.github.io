@@ -93,6 +93,7 @@ The planner described here is the one behind every edit in [Orivox](https://oriv
 - [I stopped letting the AI write my customers' websites](https://orivox-notes.kit.com/posts/issue-1-i-stopped-letting-the-ai-write-my-customers-websites) (Kit)
 - [Before You Let an AI Run Your Business Website: A 9-Point Reliability Checklist](https://exciting-marigold-f47.notion.site/Before-You-Let-an-AI-Run-Your-Business-Website-A-9-Point-Reliability-Checklist-4032b7b7bea180fdbdbbe5da10b186bf) (Notion)
 - [Exposing a website builder to AI agents via MCP](https://zahiraifer.hashnode.dev/exposing-a-website-builder-to-ai-agents-via-mcp-what-an-mcp-server-for-site-generation-looks-like) (Hashnode)
+- [Six Calls and a Commit: Budgeting LLM Turns When an AI Edits Live Websites](https://zahiraifer.hashnode.dev/six-calls-and-a-commit-budgeting-llm-turns-when-an-ai-edits-live-websites) (Hashnode)
 - [42,000 tokens article on Neocities](https://zahiraifer.neocities.org/article.html) (Neocities)
 - [Guardrails that don't trust the model](https://zahiraifer.bearblog.dev/guardrails-that-dont-trust-the-model/) (Bear Blog)
 - [Why most AI website builders break](https://orivoxnotes.substack.com/p/why-most-ai-website-builders-break) (Substack)
