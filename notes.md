@@ -35,6 +35,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [Two Codebases, Four Processes, One Owner per Fact](https://orivox-two-codebases.pages.dev/) (Cloudflare Pages)
 - [Assembled in Memory: How Orivox Shows the Model One Page While Keeping Shared Parts Shared](https://orivox-assembled-in-memory-9czb.ipfs.4everland.app/) (4EVERLAND)
 - [The Request That Never Waits: How Orivox Keeps Slow Models Off the Web Path](https://orivox-request-never-waits.netlify.app/) (Netlify)
+- [Eight Rules a Save Must Pass: The Deterministic Checks Behind Every Orivox Edit](https://orivox-eight-rules.deed.page/) (deed.page)
 - [Give Every Element an Address: The Small Idea That Makes AI Website Edits Safe](https://justpaste.it/iwma4) (JustPaste.it)
 - [One Footer, Every Page: How an AI Website Editor Keeps Shared Layout Shared](https://rentry.co/orivox-one-footer) (Rentry)
 - [Trust the Hash, Not the Label: Watching an AI Website Editor From the Outside](https://gist.github.com/zahiraifer/edfd9409aa0a39f7bd6f8795710b85a2) (GitHub Gist)
