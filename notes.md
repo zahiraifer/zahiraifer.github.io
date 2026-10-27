@@ -13,6 +13,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 
 ## Elsewhere
 
+- [Move, Don't Retype: How an AI Website Editor Relocates Content Without Losing a Sentence](https://orivox-move-dont-retype.deed.page/) (deed.page)
 - [Broken Once, Tested Forever: How Orivox Turns Live Failures Into Replay Tests](https://zahiraifer.neocities.org/orivox-broken-once-tested-forever/) (Neocities)
 - [The Real Page, Not a Summary: Why Our AI Website Editor Reads Raw HTML](https://zahiraifer.codeberg.page/orivox-real-page-not-summary/) (Codeberg Pages)
 - [Why I keep the AI on a short leash when it edits a live website](https://medium.com/@zahiraifer/why-i-keep-the-ai-on-a-short-leash-when-it-edits-a-live-website-a60a2050a565) (Medium)
