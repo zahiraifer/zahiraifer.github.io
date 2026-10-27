@@ -31,6 +31,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [Pictures Stay Put: How an AI Website Editor Protects Images and the Business Logo](https://orivox-pictures-stay-put.netlify.app/) (Netlify)
 - [Someone Else's Model at the Controls: Opening an AI Website Editor to the Customer's Own AI](https://zahiraifer.github.io/orivox-byo-ai-static/) (GitHub Pages project)
 - [The Version You Started With: Treating Undo as a Git Restore in an AI Website Editor](https://orivox-version-you-started-with.tiiny.site) (Tiiny Host)
+- [Looking Before Editing: The Helper Tools Behind an AI Website Editor's One Edit Tool](https://orivox-looking-before-editing.deed.page/) (deed.page)
 - [Give Every Element an Address: The Small Idea That Makes AI Website Edits Safe](https://justpaste.it/iwma4) (JustPaste.it)
 - [One Footer, Every Page: How an AI Website Editor Keeps Shared Layout Shared](https://rentry.co/orivox-one-footer) (Rentry)
 - [Trust the Hash, Not the Label: Watching an AI Website Editor From the Outside](https://gist.github.com/zahiraifer/edfd9409aa0a39f7bd6f8795710b85a2) (GitHub Gist)
