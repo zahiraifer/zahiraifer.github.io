@@ -102,6 +102,7 @@ The planner described here is the one behind every edit in [Orivox](https://oriv
 - [Keeping the Privacy Notice Next to the Contact Form: A Guardrail That Survives Rewrites](https://text.tchncs.de/zahiraifer/keeping-the-privacy-notice-next-to-the-contact-form-a-guardrail-that-survives) (text.tchncs.de)
 - [42,000 Tokens, 141 Back: What an AI Website Editor Actually Shows Its Model](https://orivox-42k-tokens.pages.dev) (Cloudflare Pages)
 - [Pictures Stay Put: How an AI Website Editor Protects Images and the Business Logo](https://orivox-pictures-stay-put.netlify.app/) (Netlify)
+- [Someone Else's Model at the Controls: Opening an AI Website Editor to the Customer's Own AI](https://zahiraifer.github.io/orivox-byo-ai-static/) (GitHub Pages project)
 - [Give Every Element an Address: The Small Idea That Makes AI Website Edits Safe](https://justpaste.it/iwma4) (JustPaste.it)
 - [One Footer, Every Page: How an AI Website Editor Keeps Shared Layout Shared](https://rentry.co/orivox-one-footer) (Rentry)
 - [Trust the Hash, Not the Label: Watching an AI Website Editor From the Outside](https://gist.github.com/zahiraifer/edfd9409aa0a39f7bd6f8795710b85a2) (GitHub Gist)
