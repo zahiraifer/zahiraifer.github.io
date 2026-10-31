@@ -5,7 +5,7 @@ title: "Notes by Zahi Raifer"
 
 # Notes by Zahi Raifer
 
-Technical and product notes on AI website builders, MCP, and editing live sites safely. I work on [Orivox](https://orivox.org).
+Technical and product notes on AI website builders, MCP, and editing live sites safely. I work on [Orivox](https://www.orivox.pro/).
 
 ## On this site
 
@@ -13,6 +13,14 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 
 ## Elsewhere
 
+- [Done Means Done: Designing a Stateless MCP Server That Never Creates Duplicates](https://orivox-done-means-done.deed.page/) (deed.page)
+- [Building an AI Website Editor That Speaks Hebrew First: RTL Constraints That Shape the Stack](https://njump.me/naddr1qq5k7unfwehhsttgv438yeth94nxjunnwskhyarv94skjtthv438x6t5v5kk2erfw3hhyq3qr5s7a89l3w6a2ydgeqj2hfdc9dp2v7ggltp70skmvjvtgatjcqcqxpqqqp65wqg5waehxw309aex2mrp0yhxgctdw4eju6t0qyxhwumn8ghj7mn0wvhxcmmvhxjtg2) (Nostr)
+- [Pictures Stay Put: How an AI Website Editor Protects Images and the Business Logo](https://telegra.ph/Pictures-Stay-Put-How-an-AI-Website-Editor-Protects-Images-and-the-Business-Logo-10-31) (Telegraph)
+- [The Real Page, Not a Summary: Why Our AI Website Editor Reads Raw HTML](https://orivox-real-page-raw-html.deed.page/) (deed.page)
+- [Who Gets to Say "Done"? A Success Contract for AI Agents That Edit Live Websites](https://md.chaosdorf.de/s/IQWg7jmbs8) (HedgeDoc)
+- [Trust the Hash, Not the Label: Watching an AI Website Editor From the Outside](https://zahi-raifer-trust-the-hash.surge.sh/) (Surge)
+- [Move, Don't Retype: How an AI Website Editor Relocates Content Without Losing a Sentence](https://orivox-move-dont-retype.surge.sh/) (Surge)
+- [Give Every Element an Address: The Small Idea That Makes AI Website Edits Safe](https://orivox-element-address.surge.sh/) (Surge)
 - [Move, Don't Retype: How an AI Website Editor Relocates Content Without Losing a Sentence](https://orivox-move-dont-retype.deed.page/) (deed.page)
 - [Broken Once, Tested Forever: How Orivox Turns Live Failures Into Replay Tests](https://zahiraifer.neocities.org/orivox-broken-once-tested-forever/) (Neocities)
 - [The Real Page, Not a Summary: Why Our AI Website Editor Reads Raw HTML](https://zahiraifer.codeberg.page/orivox-real-page-not-summary/) (Codeberg Pages)
@@ -62,3 +70,4 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [Blue/Green-Style Releases on Two Servers: How a Small AI Web Platform Ships Safely](https://qiita.com/zahiraifer/items/7f13305dd405ee1385b9) (Qiita)
 - [The LLM Proposes, Code Decides: Live Website Edits With 14 Verbs](https://zenn.dev/zahiraifer/articles/c5112bcaca43dc) (Zenn)
 - [I built an MCP server that lets Claude create and publish real websites](https://dev.to/t_ra_2020646ab07ca030710b/i-built-an-mcp-server-that-lets-claude-create-and-publish-real-websites-4bam) (DEV)
+https://orivox-done-means-done.deed.page/ — Done Means Done (stateless MCP) — 2026-11-01
