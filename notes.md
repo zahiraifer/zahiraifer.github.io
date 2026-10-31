@@ -70,4 +70,3 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [Blue/Green-Style Releases on Two Servers: How a Small AI Web Platform Ships Safely](https://qiita.com/zahiraifer/items/7f13305dd405ee1385b9) (Qiita)
 - [The LLM Proposes, Code Decides: Live Website Edits With 14 Verbs](https://zenn.dev/zahiraifer/articles/c5112bcaca43dc) (Zenn)
 - [I built an MCP server that lets Claude create and publish real websites](https://dev.to/t_ra_2020646ab07ca030710b/i-built-an-mcp-server-that-lets-claude-create-and-publish-real-websites-4bam) (DEV)
-https://orivox-done-means-done.deed.page/ — Done Means Done (stateless MCP) — 2026-11-01
