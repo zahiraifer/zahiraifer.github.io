@@ -13,6 +13,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 
 ## Elsewhere
 
+- [What the Operator Sees: Observability for an AI Website Editor](https://pastyx.pages.dev/what-the-operator-sees-observability-for-an-ai-website-editor) (Pastyx)
 - [Draft Once, Then Only Edit: Why Orivox Builds a Website in One Pass and Never Regenerates It](https://slugpost.com/orivox-draft-once-then-only-edit) (SlugPost)
 - [The Edit That Says No: Why Orivox Guardrails Reject Out-of-Scope Changes](https://markdown.page/31XXro5i) (markdown.page)
 - [Restarts on Our Schedule: Why an AI Website Editor Never Lets the OS Decide When It Goes Down](https://yeet.md/s/kuWlvsWa) (yeet.md)
