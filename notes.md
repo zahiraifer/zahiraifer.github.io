@@ -13,6 +13,8 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 
 ## Elsewhere
 
+- [Restarts on Our Schedule: Why an AI Website Editor Never Lets the OS Decide When It Goes Down](https://yeet.md/s/kuWlvsWa) (yeet.md)
+- [Small Edits Should Stay Small: Why an AI Website Editor Needs Scoped Operations](https://rentry.co/orivox-small-edits) (Rentry)
 - [Done Means Done: Designing a Stateless MCP Server That Never Creates Duplicates](https://orivox-done-means-done.deed.page/) (deed.page)
 - [Building an AI Website Editor That Speaks Hebrew First: RTL Constraints That Shape the Stack](https://njump.me/naddr1qq5k7unfwehhsttgv438yeth94nxjunnwskhyarv94skjtthv438x6t5v5kk2erfw3hhyq3qr5s7a89l3w6a2ydgeqj2hfdc9dp2v7ggltp70skmvjvtgatjcqcqxpqqqp65wqg5waehxw309aex2mrp0yhxgctdw4eju6t0qyxhwumn8ghj7mn0wvhxcmmvhxjtg2) (Nostr)
 - [Pictures Stay Put: How an AI Website Editor Protects Images and the Business Logo](https://telegra.ph/Pictures-Stay-Put-How-an-AI-Website-Editor-Protects-Images-and-the-Business-Logo-10-31) (Telegraph)
