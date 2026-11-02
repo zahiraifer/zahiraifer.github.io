@@ -13,6 +13,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 
 ## Elsewhere
 
+- [No Session Left Behind: Why Orivox's MCP Connector Doesn't Remember You](https://paper.wf/zahiraifer/no-session-left-behind-why-orivoxs-mcp-connector-doesnt-remember-you) (paper.wf)
 - [No Session Left Behind: Why Orivox's MCP Connector Doesn't Remember You](https://write.as/6k5ncmn3wa3wj) (Write.as)
 - [Undo Is a Place, Not a Button: Designing Version History for an AI Website Builder](https://zahiraifer.mataroa.blog/blog/undo-is-a-place-not-a-button-designing-version-history-for-an-ai-website-builder/) (Mataroa)
 - [Safe Tailwind Class Edits: How Orivox Changes Styling Without Breaking a Page](https://snippet.host/mgyjjz) (snippet.host)
