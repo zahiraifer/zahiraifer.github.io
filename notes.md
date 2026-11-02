@@ -13,6 +13,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 
 ## Elsewhere
 
+- [Safe Tailwind Class Edits: How Orivox Changes Styling Without Breaking a Page](https://snippet.host/mgyjjz) (snippet.host)
 - [Ask Before You Apply: Human Approval Gates for AI Edits on a Live Website](https://pastefy.app/dAMNm1hw) (Pastefy)
 - [Apply It Twice, Change It Once: Idempotent Edits in an AI Website Builder](https://paste.myst.rs/7fu6y0bo) (PasteMyst)
 - [Why We Chose MCP for Website Editing: Tools an Assistant Can Call, Not Pages It Has to Guess](https://paste.c-net.org/DriversRepublic) (paste.c-net.org)
