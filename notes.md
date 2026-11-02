@@ -13,6 +13,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 
 ## Elsewhere
 
+- [Apply It Twice, Change It Once: Idempotent Edits in an AI Website Builder](https://paste.myst.rs/7fu6y0bo) (PasteMyst)
 - [Why We Chose MCP for Website Editing: Tools an Assistant Can Call, Not Pages It Has to Guess](https://paste.c-net.org/DriversRepublic) (paste.c-net.org)
 - [What the Operator Sees: Observability for an AI Website Editor](https://pastyx.pages.dev/what-the-operator-sees-observability-for-an-ai-website-editor) (Pastyx)
 - [Draft Once, Then Only Edit: Why Orivox Builds a Website in One Pass and Never Regenerates It](https://slugpost.com/orivox-draft-once-then-only-edit) (SlugPost)
