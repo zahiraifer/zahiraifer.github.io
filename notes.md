@@ -13,6 +13,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 
 ## Elsewhere
 
+- [Keeping the Privacy Notice Next to the Contact Form: A Guardrail That Survives Rewrites](https://zahiraifer.stck.me/chapter/2267393/Keeping-the-Privacy-Notice-Next-to-the-Contact-Form-A-Guardrail-That-Survives-Rewrites) (Stck.me)
 - [Standby, Not Stopped: What Happens to Site Edits When Orivox's MCP Server Idles](https://dev.to/t_ra_2020646ab07ca030710b/standby-not-stopped-what-happens-to-site-edits-when-orivoxs-mcp-server-idles-51oo) (DEV.to)
 - [Standby, Not Stopped: What Happens to Site Edits When Orivox's MCP Server Idles](https://justpaste.it/htoyc) (JustPaste.it · noindex)
 - [Before and After: The Footprint of One AI Website Edit](https://teletype.in/@orivox/YPB-oGxLv2V) (Teletype)
