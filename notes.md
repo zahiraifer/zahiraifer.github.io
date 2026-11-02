@@ -13,6 +13,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 
 ## Elsewhere
 
+- [Standby, Not Stopped: What Happens to Site Edits When Orivox's MCP Server Idles](https://dev.to/t_ra_2020646ab07ca030710b/standby-not-stopped-what-happens-to-site-edits-when-orivoxs-mcp-server-idles-51oo) (DEV.to)
 - [Standby, Not Stopped: What Happens to Site Edits When Orivox's MCP Server Idles](https://justpaste.it/htoyc) (JustPaste.it · noindex)
 - [Before and After: The Footprint of One AI Website Edit](https://teletype.in/@orivox/YPB-oGxLv2V) (Teletype)
 - [No Session Left Behind: Why Orivox's MCP Connector Doesn't Remember You](https://paper.wf/zahiraifer/no-session-left-behind-why-orivoxs-mcp-connector-doesnt-remember-you) (paper.wf)
