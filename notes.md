@@ -92,3 +92,4 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [Why a 14-Verb Grammar Beats Full-Page Rewrites for AI Website Edits](https://zahiraifer.pluma.ink/14-verb-grammar-ai-edits/) (Pluma)
 - [WritePage · Broken Once, Tested Forever: how Orivox turns live failures into replay tests](https://orivox.writepage.net/broken-once-tested-forever-how-orivox-turns-live-failures-into-replay-tests) (WritePage; [blog home](https://orivox.writepage.net/))
 - [I built an MCP server that lets Claude create and publish real websites](https://dev.to/t_ra_2020646ab07ca030710b/i-built-an-mcp-server-that-lets-claude-create-and-publish-real-websites-4bam) (DEV)
+- [Lavvus · Undo as Git restore: The Version You Started With](https://lavv.us/blog/orivox/the-version-you-started-with-treating-undo-as-a-git-restore-in-an-ai-website-editor) (Lavvus; [blog home](https://lavv.us/blog/orivox))
