@@ -87,4 +87,7 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [The LLM Proposes, Code Decides: Live Website Edits With 14 Verbs](https://zenn.dev/zahiraifer/articles/c5112bcaca43dc) (Zenn)
 - [One owner for every piece of state: Git per project, one lock](https://zenn.dev/zahiraifer/articles/7840e6d32a289c) (Zenn)
 - [Building an AI Website Editor That Speaks Hebrew First: RTL Constraints That Shape the Stack](https://velog.io/@orivox/Building-an-AI-Website-Editor-That-Speaks-Hebrew-First-RTL-Constraints-That-Shape-the-Stack) (Velog)
+- [Generating RTL-correct Hebrew HTML from ASP.NET Core: a practical guide](https://viblo.asia/p/generating-rtl-correct-hebrew-html-from-aspnet-core-a-practical-guide-ym4002nK491) (Viblo)
+- [Blue/Green-Style Releases on Two Servers: How a Small AI Web Platform Ships Safely](https://orivox.ultrv.blog/blue-green-style-releases-on-two-servers-how-a-small-ai-web-platform-ships-safely) (ULTRV)
+- [Why a 14-Verb Grammar Beats Full-Page Rewrites for AI Website Edits](https://zahiraifer.pluma.ink/14-verb-grammar-ai-edits/) (Pluma)
 - [I built an MCP server that lets Claude create and publish real websites](https://dev.to/t_ra_2020646ab07ca030710b/i-built-an-mcp-server-that-lets-claude-create-and-publish-real-websites-4bam) (DEV)
