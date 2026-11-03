@@ -96,3 +96,4 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [The LLM Proposes, Code Decides: Editing Live Websites With a 14-Verb Grammar](https://note.com/orivox/n/ne210f66df82d) (note.com)
 
 - [Six Model Calls, Then Stop: Bounding the Agent Loop That Edits Live Websites](https://daily.dev/posts/six-model-calls-then-stop-bounding-the-agent-loop-that-edits-live-websites-2h7stvrd9) (daily.dev)
+- [Failure Modes First: A Runbook for an LLM That Edits Production Websites](https://community.ops.io/zahiraifer/failure-modes-first-a-runbook-for-an-llm-that-edits-production-websites-337c) (Ops Community)
