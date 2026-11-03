@@ -94,3 +94,5 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [I built an MCP server that lets Claude create and publish real websites](https://dev.to/t_ra_2020646ab07ca030710b/i-built-an-mcp-server-that-lets-claude-create-and-publish-real-websites-4bam) (DEV)
 - [Lavvus · Undo as Git restore: The Version You Started With](https://lavv.us/blog/orivox/the-version-you-started-with-treating-undo-as-a-git-restore-in-an-ai-website-editor) (Lavvus; [blog home](https://lavv.us/blog/orivox))
 - [The LLM Proposes, Code Decides: Editing Live Websites With a 14-Verb Grammar](https://note.com/orivox/n/ne210f66df82d) (note.com)
+
+- [Six Model Calls, Then Stop: Bounding the Agent Loop That Edits Live Websites](https://daily.dev/posts/six-model-calls-then-stop-bounding-the-agent-loop-that-edits-live-websites-2h7stvrd9) (daily.dev)
