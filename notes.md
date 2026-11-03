@@ -90,4 +90,5 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 - [Generating RTL-correct Hebrew HTML from ASP.NET Core: a practical guide](https://viblo.asia/p/generating-rtl-correct-hebrew-html-from-aspnet-core-a-practical-guide-ym4002nK491) (Viblo)
 - [Blue/Green-Style Releases on Two Servers: How a Small AI Web Platform Ships Safely](https://orivox.ultrv.blog/blue-green-style-releases-on-two-servers-how-a-small-ai-web-platform-ships-safely) (ULTRV)
 - [Why a 14-Verb Grammar Beats Full-Page Rewrites for AI Website Edits](https://zahiraifer.pluma.ink/14-verb-grammar-ai-edits/) (Pluma)
+- [WritePage · Broken Once, Tested Forever: how Orivox turns live failures into replay tests](https://orivox.writepage.net/broken-once-tested-forever-how-orivox-turns-live-failures-into-replay-tests) (WritePage; [blog home](https://orivox.writepage.net/))
 - [I built an MCP server that lets Claude create and publish real websites](https://dev.to/t_ra_2020646ab07ca030710b/i-built-an-mcp-server-that-lets-claude-create-and-publish-real-websites-4bam) (DEV)
