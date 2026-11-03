@@ -97,3 +97,4 @@ Technical and product notes on AI website builders, MCP, and editing live sites 
 
 - [Six Model Calls, Then Stop: Bounding the Agent Loop That Edits Live Websites](https://daily.dev/posts/six-model-calls-then-stop-bounding-the-agent-loop-that-edits-live-websites-2h7stvrd9) (daily.dev)
 - [Failure Modes First: A Runbook for an LLM That Edits Production Websites](https://community.ops.io/zahiraifer/failure-modes-first-a-runbook-for-an-llm-that-edits-production-websites-337c) (Ops Community)
+- [A Restart Budget for an LLM-Backed Web App: Deciding What Is Allowed to Bounce Production](https://builder.aws.com/content/3LavvCo4U1E9aZLf9t6cRe2EEZ3/a-restart-budget-for-an-llm-backed-web-app-deciding-what-is-allowed-to-bounce-production) (AWS Builder Center)
